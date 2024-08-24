@@ -32,6 +32,6 @@ The application can be terminated by pressing the q key while it is running.
 ## **📄 License**
 This project is licensed under the MIT License. For more information, please refer to the LICENSE file.
 
-
+---
 This *README.md* file will help users understand how to use your hand tracking application. If you need any further modifications or explanations, feel free to ask!
 
